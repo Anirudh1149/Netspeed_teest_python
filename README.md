@@ -1,4 +1,4 @@
-# Netspeed_teest_python
+# Netspeed_test_python
 
 This is a simple code. 
 I use PyCharm to code .
